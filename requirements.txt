@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+scikit-learn
+matplotlib
+ipython
+seaborn
+graphviz
+scipy
+pillow 
+nltk
+spacy
+imageio
